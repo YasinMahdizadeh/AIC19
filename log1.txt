@@ -1,6003 +1,814 @@
 Trying to connect #1
 connected to server!
 ____PREPROCESS____
+--> X Center = 15.0
+--> Y Center = 15.0
 ____PICK____
 ____PICK____
 ____PICK____
 ____PICK____
 _____MOVE_____
-01= row:27  column:17
-02= row:13  column:16
-01= row:26  column:16
-02= row:13  column:12
-01= row:27  column:13
-02= row:12  column:18
-01= row:26  column:14
-02= row:13  column:13
-_____MOVE_____
-01= row:28  column:17
-02= row:17  column:17
-01= row:27  column:16
-02= row:16  column:18
-01= row:28  column:13
-02= row:15  column:17
-01= row:27  column:14
-02= row:14  column:18
-_____MOVE_____
-01= row:28  column:18
-02= row:15  column:16
-01= row:28  column:16
-02= row:14  column:17
-01= row:28  column:12
-02= row:14  column:16
-01= row:28  column:14
-02= row:13  column:14
-_____MOVE_____
-01= row:28  column:19
-02= row:16  column:16
-01= row:28  column:17
-02= row:18  column:15
-01= row:28  column:11
-02= row:13  column:14
-01= row:28  column:13
-02= row:16  column:13
-_____MOVE_____
-01= row:27  column:19
-02= row:18  column:15
-01= row:28  column:18
-02= row:15  column:16
-01= row:27  column:11
-02= row:15  column:18
-01= row:28  column:12
-02= row:17  column:16
-_____MOVE_____
-01= row:26  column:19
-02= row:12  column:12
-01= row:28  column:19
-02= row:13  column:18
-01= row:27  column:11
-02= row:18  column:15
-01= row:28  column:12
-02= row:16  column:14
-____ACTION_____
-_____MOVE_____
-01= row:26  column:19
-02= row:16  column:12
-01= row:28  column:19
-02= row:14  column:18
-01= row:27  column:11
-02= row:18  column:13
-01= row:28  column:12
-02= row:14  column:13
-_____MOVE_____
-01= row:26  column:19
-02= row:17  column:13
-01= row:28  column:19
-02= row:18  column:15
-01= row:27  column:11
-02= row:17  column:17
-01= row:28  column:12
-02= row:16  column:16
-_____MOVE_____
-01= row:25  column:19
-02= row:18  column:15
-01= row:27  column:19
-02= row:14  column:15
-01= row:26  column:11
-02= row:15  column:18
-01= row:28  column:11
-02= row:12  column:13
-_____MOVE_____
-01= row:24  column:19
-02= row:15  column:17
-01= row:26  column:19
-02= row:14  column:13
-01= row:25  column:11
-02= row:15  column:17
-01= row:27  column:11
-02= row:15  column:16
-_____MOVE_____
-01= row:23  column:19
-02= row:16  column:15
-01= row:25  column:19
-02= row:15  column:12
-01= row:24  column:11
-02= row:18  column:18
-01= row:26  column:11
-02= row:14  column:12
-_____MOVE_____
-01= row:23  column:18
-02= row:17  column:15
-01= row:24  column:19
-02= row:13  column:16
-01= row:23  column:11
-02= row:14  column:13
-01= row:25  column:11
-02= row:14  column:14
-____ACTION_____
-_____MOVE_____
-01= row:23  column:17
-02= row:17  column:18
-01= row:23  column:19
-02= row:12  column:18
-01= row:23  column:11
-02= row:18  column:15
-01= row:25  column:11
-02= row:17  column:12
-_____MOVE_____
-01= row:23  column:17
-02= row:13  column:15
-01= row:23  column:19
-02= row:15  column:17
-01= row:23  column:11
-02= row:17  column:16
-01= row:25  column:11
-02= row:14  column:14
-_____MOVE_____
-01= row:22  column:17
-02= row:17  column:16
-01= row:23  column:18
-02= row:18  column:12
-01= row:23  column:12
-02= row:12  column:15
-01= row:24  column:11
-02= row:18  column:17
-_____MOVE_____
-01= row:21  column:17
-02= row:18  column:13
-01= row:23  column:17
-02= row:14  column:16
-01= row:23  column:13
-02= row:15  column:14
-01= row:23  column:11
-02= row:18  column:16
-_____MOVE_____
-01= row:20  column:17
-02= row:12  column:12
-01= row:22  column:17
-02= row:15  column:16
-01= row:22  column:13
-02= row:13  column:12
-01= row:23  column:12
-02= row:13  column:14
-_____MOVE_____
-01= row:19  column:17
-02= row:14  column:15
-01= row:21  column:17
-02= row:16  column:13
-01= row:21  column:13
-02= row:14  column:15
-01= row:23  column:13
-02= row:17  column:15
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:14
-01= row:20  column:17
-02= row:18  column:13
-01= row:21  column:13
-02= row:15  column:16
-01= row:23  column:13
-02= row:14  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:13
-01= row:20  column:17
-02= row:16  column:15
-01= row:21  column:13
-02= row:12  column:16
-01= row:23  column:13
-02= row:12  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:12
-01= row:19  column:17
-02= row:18  column:17
-01= row:20  column:13
-02= row:18  column:16
-01= row:22  column:13
-02= row:16  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:15
-01= row:19  column:17
-02= row:13  column:14
-01= row:19  column:13
-02= row:17  column:13
-01= row:21  column:13
-02= row:12  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:12
-01= row:19  column:17
-02= row:13  column:14
-01= row:18  column:13
-02= row:16  column:15
-01= row:20  column:13
-02= row:15  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:17
-01= row:19  column:17
-02= row:14  column:18
-01= row:18  column:13
-02= row:15  column:16
-01= row:19  column:13
-02= row:15  column:13
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:18
-01= row:19  column:17
-02= row:18  column:18
-01= row:18  column:13
-02= row:12  column:13
-01= row:19  column:13
-02= row:15  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:13
-01= row:19  column:17
-02= row:15  column:12
-01= row:18  column:13
-02= row:13  column:15
-01= row:19  column:13
-02= row:15  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:12
-01= row:19  column:17
-02= row:12  column:18
-01= row:18  column:13
-02= row:13  column:12
-01= row:19  column:13
-02= row:14  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:17
-01= row:19  column:17
-02= row:14  column:16
-01= row:18  column:13
-02= row:16  column:17
-01= row:19  column:13
-02= row:12  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:15
-01= row:19  column:17
-02= row:13  column:15
-01= row:18  column:13
-02= row:12  column:15
-01= row:19  column:13
-02= row:13  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:16
-01= row:19  column:17
-02= row:12  column:13
-01= row:18  column:13
-02= row:12  column:15
-01= row:19  column:13
-02= row:17  column:15
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:12
-01= row:19  column:17
-02= row:17  column:18
-01= row:18  column:13
-02= row:18  column:17
-01= row:19  column:13
-02= row:16  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:17
-01= row:19  column:17
-02= row:17  column:15
-01= row:18  column:13
-02= row:14  column:13
-01= row:19  column:13
-02= row:12  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:16
-01= row:19  column:17
-02= row:14  column:15
-01= row:18  column:13
-02= row:13  column:16
-01= row:19  column:13
-02= row:17  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:18
-01= row:19  column:17
-02= row:15  column:16
-01= row:18  column:13
-02= row:16  column:16
-01= row:19  column:13
-02= row:17  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:16
-01= row:19  column:17
-02= row:15  column:12
-01= row:18  column:13
-02= row:12  column:17
-01= row:19  column:13
-02= row:17  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:14
-01= row:19  column:17
-02= row:18  column:15
-01= row:18  column:13
-02= row:15  column:14
-01= row:19  column:13
-02= row:14  column:14
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:12
-01= row:19  column:17
-02= row:13  column:18
-01= row:18  column:13
-02= row:17  column:14
-01= row:19  column:13
-02= row:17  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:17
-01= row:19  column:17
-02= row:18  column:16
-01= row:18  column:13
-02= row:18  column:14
-01= row:19  column:13
-02= row:13  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:16
-01= row:19  column:17
-02= row:17  column:17
-01= row:18  column:13
-02= row:14  column:18
-01= row:19  column:13
-02= row:13  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:17
-01= row:19  column:17
-02= row:14  column:14
-01= row:18  column:13
-02= row:18  column:18
-01= row:19  column:13
-02= row:15  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:14
-01= row:19  column:17
-02= row:16  column:12
-01= row:18  column:13
-02= row:17  column:18
-01= row:19  column:13
-02= row:17  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:16
-01= row:19  column:17
-02= row:18  column:14
-01= row:18  column:13
-02= row:17  column:14
-01= row:19  column:13
-02= row:16  column:13
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:15
-01= row:19  column:17
-02= row:17  column:17
-01= row:18  column:13
-02= row:15  column:18
-01= row:19  column:13
-02= row:17  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:16
-01= row:19  column:17
-02= row:14  column:16
-01= row:18  column:13
-02= row:12  column:18
-01= row:19  column:13
-02= row:17  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:12
-01= row:19  column:17
-02= row:12  column:15
-01= row:18  column:13
-02= row:14  column:14
-01= row:19  column:13
-02= row:13  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:15
-01= row:19  column:17
-02= row:15  column:13
-01= row:18  column:13
-02= row:17  column:16
-01= row:19  column:13
-02= row:16  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:16
-01= row:19  column:17
-02= row:17  column:16
-01= row:18  column:13
-02= row:14  column:18
-01= row:19  column:13
-02= row:17  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:17
-01= row:19  column:17
-02= row:13  column:15
-01= row:18  column:13
-02= row:12  column:15
-01= row:19  column:13
-02= row:13  column:16
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:12
-01= row:19  column:17
-02= row:14  column:18
-01= row:18  column:13
-02= row:14  column:14
-01= row:19  column:13
-02= row:13  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:16
-01= row:19  column:17
-02= row:14  column:15
-01= row:18  column:13
-02= row:15  column:14
-01= row:19  column:13
-02= row:16  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:16
-01= row:19  column:17
-02= row:14  column:14
-01= row:18  column:13
-02= row:12  column:16
-01= row:19  column:13
-02= row:14  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:18
-01= row:19  column:17
-02= row:18  column:18
-01= row:18  column:13
-02= row:12  column:14
-01= row:19  column:13
-02= row:13  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:15
-01= row:19  column:17
-02= row:13  column:14
-01= row:18  column:13
-02= row:16  column:14
-01= row:19  column:13
-02= row:17  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:18
-01= row:19  column:17
-02= row:18  column:12
-01= row:18  column:13
-02= row:17  column:12
-01= row:19  column:13
-02= row:12  column:18
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:13
-01= row:19  column:17
-02= row:18  column:15
-01= row:18  column:13
-02= row:13  column:14
-01= row:19  column:13
-02= row:17  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:13
-01= row:19  column:17
-02= row:13  column:16
-01= row:18  column:13
-02= row:14  column:12
-01= row:19  column:13
-02= row:16  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:12
-01= row:19  column:17
-02= row:13  column:15
-01= row:18  column:13
-02= row:15  column:13
-01= row:19  column:13
-02= row:13  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:16
-01= row:19  column:17
-02= row:17  column:14
-01= row:18  column:13
-02= row:12  column:15
-01= row:19  column:13
-02= row:16  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:12
-01= row:19  column:17
-02= row:18  column:18
-01= row:18  column:13
-02= row:16  column:15
-01= row:19  column:13
-02= row:15  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:16
-01= row:19  column:17
-02= row:18  column:14
-01= row:18  column:13
-02= row:16  column:13
-01= row:19  column:13
-02= row:14  column:12
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:16
-01= row:19  column:17
-02= row:12  column:17
-01= row:18  column:13
-02= row:15  column:16
-01= row:19  column:13
-02= row:15  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:14
-01= row:19  column:17
-02= row:13  column:16
-01= row:18  column:13
-02= row:16  column:16
-01= row:19  column:13
-02= row:16  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:18
-01= row:19  column:17
-02= row:14  column:14
-01= row:18  column:13
-02= row:17  column:13
-01= row:19  column:13
-02= row:14  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:16
-01= row:19  column:17
-02= row:12  column:14
-01= row:18  column:13
-02= row:15  column:14
-01= row:19  column:13
-02= row:16  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:16
-01= row:19  column:17
-02= row:16  column:14
-01= row:18  column:13
-02= row:16  column:12
-01= row:19  column:13
-02= row:12  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:14
-01= row:19  column:17
-02= row:14  column:14
-01= row:18  column:13
-02= row:14  column:12
-01= row:19  column:13
-02= row:16  column:17
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:14
-01= row:19  column:17
-02= row:15  column:16
-01= row:18  column:13
-02= row:18  column:13
-01= row:19  column:13
-02= row:18  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:14
-01= row:19  column:17
-02= row:18  column:14
-01= row:18  column:13
-02= row:13  column:12
-01= row:19  column:13
-02= row:18  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:14
-01= row:19  column:17
-02= row:16  column:17
-01= row:18  column:13
-02= row:17  column:18
-01= row:19  column:13
-02= row:14  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:16
-01= row:19  column:17
-02= row:12  column:13
-01= row:18  column:13
-02= row:15  column:12
-01= row:19  column:13
-02= row:14  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:12
-01= row:19  column:17
-02= row:14  column:13
-01= row:18  column:13
-02= row:12  column:14
-01= row:19  column:13
-02= row:18  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:12
-01= row:19  column:17
-02= row:12  column:16
-01= row:18  column:13
-02= row:15  column:18
-01= row:19  column:13
-02= row:18  column:13
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:14
-01= row:19  column:17
-02= row:16  column:12
-01= row:18  column:13
-02= row:16  column:17
-01= row:19  column:13
-02= row:16  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:13
-01= row:19  column:17
-02= row:14  column:15
-01= row:18  column:13
-02= row:14  column:18
-01= row:19  column:13
-02= row:18  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:18
-01= row:19  column:17
-02= row:14  column:16
-01= row:18  column:13
-02= row:13  column:12
-01= row:19  column:13
-02= row:18  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:18
-01= row:19  column:17
-02= row:17  column:12
-01= row:18  column:13
-02= row:18  column:16
-01= row:19  column:13
-02= row:15  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:12
-01= row:19  column:17
-02= row:16  column:17
-01= row:18  column:13
-02= row:13  column:16
-01= row:19  column:13
-02= row:18  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:13
-01= row:19  column:17
-02= row:12  column:16
-01= row:18  column:13
-02= row:12  column:15
-01= row:19  column:13
-02= row:17  column:17
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:15
-01= row:19  column:17
-02= row:15  column:14
-01= row:18  column:13
-02= row:14  column:17
-01= row:19  column:13
-02= row:12  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:12
-01= row:19  column:17
-02= row:18  column:16
-01= row:18  column:13
-02= row:15  column:18
-01= row:19  column:13
-02= row:18  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:16
-01= row:19  column:17
-02= row:17  column:12
-01= row:18  column:13
-02= row:12  column:18
-01= row:19  column:13
-02= row:14  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:15
-01= row:19  column:17
-02= row:14  column:18
-01= row:18  column:13
-02= row:12  column:17
-01= row:19  column:13
-02= row:16  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:14
-01= row:19  column:17
-02= row:13  column:15
-01= row:18  column:13
-02= row:18  column:18
-01= row:19  column:13
-02= row:17  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:16
-01= row:19  column:17
-02= row:17  column:13
-01= row:18  column:13
-02= row:12  column:17
-01= row:19  column:13
-02= row:15  column:16
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:14
-01= row:19  column:17
-02= row:15  column:18
-01= row:18  column:13
-02= row:17  column:17
-01= row:19  column:13
-02= row:14  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:16
-01= row:19  column:17
-02= row:14  column:15
-01= row:18  column:13
-02= row:17  column:13
-01= row:19  column:13
-02= row:14  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:14
-01= row:19  column:17
-02= row:13  column:15
-01= row:18  column:13
-02= row:14  column:13
-01= row:19  column:13
-02= row:16  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:12
-01= row:19  column:17
-02= row:16  column:14
-01= row:18  column:13
-02= row:17  column:14
-01= row:19  column:13
-02= row:15  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:17
-01= row:19  column:17
-02= row:13  column:12
-01= row:18  column:13
-02= row:17  column:12
-01= row:19  column:13
-02= row:16  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:17
-01= row:19  column:17
-02= row:18  column:16
-01= row:18  column:13
-02= row:18  column:14
-01= row:19  column:13
-02= row:18  column:16
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:15
-01= row:19  column:17
-02= row:14  column:16
-01= row:18  column:13
-02= row:14  column:12
-01= row:19  column:13
-02= row:16  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:16
-01= row:19  column:17
-02= row:12  column:18
-01= row:18  column:13
-02= row:18  column:12
-01= row:19  column:13
-02= row:14  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:15
-01= row:19  column:17
-02= row:18  column:15
-01= row:18  column:13
-02= row:12  column:14
-01= row:19  column:13
-02= row:13  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:13
-01= row:19  column:17
-02= row:17  column:16
-01= row:18  column:13
-02= row:16  column:12
-01= row:19  column:13
-02= row:16  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:14
-01= row:19  column:17
-02= row:15  column:14
-01= row:18  column:13
-02= row:12  column:18
-01= row:19  column:13
-02= row:18  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:12
-01= row:19  column:17
-02= row:15  column:16
-01= row:18  column:13
-02= row:14  column:15
-01= row:19  column:13
-02= row:12  column:15
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:16
-01= row:19  column:17
-02= row:13  column:18
-01= row:18  column:13
-02= row:12  column:16
-01= row:19  column:13
-02= row:13  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:16
-01= row:19  column:17
-02= row:13  column:18
-01= row:18  column:13
-02= row:18  column:13
-01= row:19  column:13
-02= row:13  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:14
-01= row:19  column:17
-02= row:12  column:15
-01= row:18  column:13
-02= row:15  column:17
-01= row:19  column:13
-02= row:14  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:18
-01= row:19  column:17
-02= row:17  column:17
-01= row:18  column:13
-02= row:13  column:16
-01= row:19  column:13
-02= row:17  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:17
-01= row:19  column:17
-02= row:18  column:15
-01= row:18  column:13
-02= row:18  column:15
-01= row:19  column:13
-02= row:12  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:14
-01= row:19  column:17
-02= row:17  column:13
-01= row:18  column:13
-02= row:16  column:15
-01= row:19  column:13
-02= row:12  column:18
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:17
-01= row:19  column:17
-02= row:13  column:14
-01= row:18  column:13
-02= row:14  column:12
-01= row:19  column:13
-02= row:17  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:12
-01= row:19  column:17
-02= row:17  column:18
-01= row:18  column:13
-02= row:17  column:13
-01= row:19  column:13
-02= row:15  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:16
-01= row:19  column:17
-02= row:13  column:13
-01= row:18  column:13
-02= row:15  column:17
-01= row:19  column:13
-02= row:15  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:17
-01= row:19  column:17
-02= row:18  column:14
-01= row:18  column:13
-02= row:15  column:14
-01= row:19  column:13
-02= row:18  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:12
-01= row:19  column:17
-02= row:12  column:15
-01= row:18  column:13
-02= row:15  column:17
-01= row:19  column:13
-02= row:15  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:13
-01= row:19  column:17
-02= row:18  column:15
-01= row:18  column:13
-02= row:16  column:13
-01= row:19  column:13
-02= row:15  column:18
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:13
-01= row:19  column:17
-02= row:13  column:16
-01= row:18  column:13
-02= row:13  column:16
-01= row:19  column:13
-02= row:12  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:13
-01= row:19  column:17
-02= row:15  column:18
-01= row:18  column:13
-02= row:14  column:16
-01= row:19  column:13
-02= row:16  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:15
-01= row:19  column:17
-02= row:14  column:15
-01= row:18  column:13
-02= row:12  column:14
-01= row:19  column:13
-02= row:18  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:13
-01= row:19  column:17
-02= row:12  column:16
-01= row:18  column:13
-02= row:14  column:18
-01= row:19  column:13
-02= row:14  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:15
-01= row:19  column:17
-02= row:15  column:18
-01= row:18  column:13
-02= row:17  column:13
-01= row:19  column:13
-02= row:13  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:17
-01= row:19  column:17
-02= row:17  column:15
-01= row:18  column:13
-02= row:18  column:16
-01= row:19  column:13
-02= row:12  column:13
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:12
-01= row:19  column:17
-02= row:13  column:18
-01= row:18  column:13
-02= row:18  column:14
-01= row:19  column:13
-02= row:17  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:17
-01= row:19  column:17
-02= row:17  column:16
-01= row:18  column:13
-02= row:18  column:12
-01= row:19  column:13
-02= row:13  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:12
-01= row:19  column:17
-02= row:17  column:17
-01= row:18  column:13
-02= row:12  column:12
-01= row:19  column:13
-02= row:18  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:15
-01= row:19  column:17
-02= row:12  column:13
-01= row:18  column:13
-02= row:15  column:13
-01= row:19  column:13
-02= row:15  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:14
-01= row:19  column:17
-02= row:14  column:18
-01= row:18  column:13
-02= row:18  column:15
-01= row:19  column:13
-02= row:12  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:14
-01= row:19  column:17
-02= row:18  column:17
-01= row:18  column:13
-02= row:14  column:18
-01= row:19  column:13
-02= row:13  column:18
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:16
-01= row:19  column:17
-02= row:17  column:14
-01= row:18  column:13
-02= row:14  column:12
-01= row:19  column:13
-02= row:18  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:15
-01= row:19  column:17
-02= row:12  column:16
-01= row:18  column:13
-02= row:18  column:17
-01= row:19  column:13
-02= row:13  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:16
-01= row:19  column:17
-02= row:12  column:15
-01= row:18  column:13
-02= row:16  column:15
-01= row:19  column:13
-02= row:13  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:15
-01= row:19  column:17
-02= row:13  column:17
-01= row:18  column:13
-02= row:16  column:13
-01= row:19  column:13
-02= row:12  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:16
-01= row:19  column:17
-02= row:15  column:13
-01= row:18  column:13
-02= row:12  column:16
-01= row:19  column:13
-02= row:16  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:17
-01= row:19  column:17
-02= row:15  column:18
-01= row:18  column:13
-02= row:16  column:15
-01= row:19  column:13
-02= row:13  column:17
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:14
-01= row:19  column:17
-02= row:18  column:18
-01= row:18  column:13
-02= row:14  column:14
-01= row:19  column:13
-02= row:18  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:12
-01= row:19  column:17
-02= row:18  column:18
-01= row:18  column:13
-02= row:14  column:14
-01= row:19  column:13
-02= row:18  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:18
-01= row:19  column:17
-02= row:14  column:16
-01= row:18  column:13
-02= row:13  column:12
-01= row:19  column:13
-02= row:18  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:13
-01= row:19  column:17
-02= row:16  column:14
-01= row:18  column:13
-02= row:15  column:16
-01= row:19  column:13
-02= row:18  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:18
-01= row:19  column:17
-02= row:16  column:14
-01= row:18  column:13
-02= row:16  column:12
-01= row:19  column:13
-02= row:13  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:14
-01= row:19  column:17
-02= row:13  column:18
-01= row:18  column:13
-02= row:18  column:13
-01= row:19  column:13
-02= row:14  column:17
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:15
-01= row:19  column:17
-02= row:17  column:18
-01= row:18  column:13
-02= row:17  column:16
-01= row:19  column:13
-02= row:14  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:13
-01= row:19  column:17
-02= row:18  column:13
-01= row:18  column:13
-02= row:13  column:12
-01= row:19  column:13
-02= row:12  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:12
-01= row:19  column:17
-02= row:18  column:15
-01= row:18  column:13
-02= row:16  column:13
-01= row:19  column:13
-02= row:15  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:17
-01= row:19  column:17
-02= row:17  column:17
-01= row:18  column:13
-02= row:15  column:13
-01= row:19  column:13
-02= row:17  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:18
-01= row:19  column:17
-02= row:16  column:16
-01= row:18  column:13
-02= row:15  column:16
-01= row:19  column:13
-02= row:14  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:14
-01= row:19  column:17
-02= row:15  column:13
-01= row:18  column:13
-02= row:12  column:18
-01= row:19  column:13
-02= row:16  column:15
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:14
-01= row:19  column:17
-02= row:12  column:13
-01= row:18  column:13
-02= row:18  column:18
-01= row:19  column:13
-02= row:17  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:14
-01= row:19  column:17
-02= row:18  column:17
-01= row:18  column:13
-02= row:15  column:17
-01= row:19  column:13
-02= row:12  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:18
-01= row:19  column:17
-02= row:16  column:15
-01= row:18  column:13
-02= row:17  column:18
-01= row:19  column:13
-02= row:15  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:17
-01= row:19  column:17
-02= row:17  column:13
-01= row:18  column:13
-02= row:17  column:17
-01= row:19  column:13
-02= row:17  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:15
-01= row:19  column:17
-02= row:12  column:18
-01= row:18  column:13
-02= row:15  column:12
-01= row:19  column:13
-02= row:17  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:13
-01= row:19  column:17
-02= row:15  column:12
-01= row:18  column:13
-02= row:16  column:12
-01= row:19  column:13
-02= row:12  column:17
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:18
-01= row:19  column:17
-02= row:17  column:18
-01= row:18  column:13
-02= row:14  column:13
-01= row:19  column:13
-02= row:13  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:13
-01= row:19  column:17
-02= row:13  column:15
-01= row:18  column:13
-02= row:16  column:14
-01= row:19  column:13
-02= row:18  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:14
-01= row:19  column:17
-02= row:14  column:16
-01= row:18  column:13
-02= row:17  column:16
-01= row:19  column:13
-02= row:16  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:12
-01= row:19  column:17
-02= row:16  column:13
-01= row:18  column:13
-02= row:16  column:12
-01= row:19  column:13
-02= row:16  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:18
-01= row:19  column:17
-02= row:12  column:15
-01= row:18  column:13
-02= row:18  column:14
-01= row:19  column:13
-02= row:16  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:12
-01= row:19  column:17
-02= row:15  column:16
-01= row:18  column:13
-02= row:14  column:15
-01= row:19  column:13
-02= row:14  column:17
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:15
-01= row:19  column:17
-02= row:18  column:13
-01= row:18  column:13
-02= row:12  column:17
-01= row:19  column:13
-02= row:13  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:13
-01= row:19  column:17
-02= row:16  column:16
-01= row:18  column:13
-02= row:17  column:16
-01= row:19  column:13
-02= row:12  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:17
-01= row:19  column:17
-02= row:13  column:18
-01= row:18  column:13
-02= row:13  column:13
-01= row:19  column:13
-02= row:15  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:14
-01= row:19  column:17
-02= row:15  column:14
-01= row:18  column:13
-02= row:15  column:18
-01= row:19  column:13
-02= row:17  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:18
-01= row:19  column:17
-02= row:14  column:14
-01= row:18  column:13
-02= row:17  column:17
-01= row:19  column:13
-02= row:13  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:13
-01= row:19  column:17
-02= row:15  column:16
-01= row:18  column:13
-02= row:13  column:14
-01= row:19  column:13
-02= row:14  column:15
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:18
-01= row:19  column:17
-02= row:13  column:15
-01= row:18  column:13
-02= row:18  column:16
-01= row:19  column:13
-02= row:16  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:12
-01= row:19  column:17
-02= row:16  column:18
-01= row:18  column:13
-02= row:15  column:18
-01= row:19  column:13
-02= row:14  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:15
-01= row:19  column:17
-02= row:14  column:18
-01= row:18  column:13
-02= row:12  column:13
-01= row:19  column:13
-02= row:18  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:17
-01= row:19  column:17
-02= row:16  column:17
-01= row:18  column:13
-02= row:17  column:12
-01= row:19  column:13
-02= row:13  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:12
-01= row:19  column:17
-02= row:12  column:18
-01= row:18  column:13
-02= row:16  column:17
-01= row:19  column:13
-02= row:18  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:17
-01= row:19  column:17
-02= row:12  column:17
-01= row:18  column:13
-02= row:13  column:12
-01= row:19  column:13
-02= row:18  column:12
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:12
-01= row:19  column:17
-02= row:12  column:15
-01= row:18  column:13
-02= row:12  column:13
-01= row:19  column:13
-02= row:13  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:16
-01= row:19  column:17
-02= row:17  column:15
-01= row:18  column:13
-02= row:15  column:14
-01= row:19  column:13
-02= row:13  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:14
-01= row:19  column:17
-02= row:17  column:12
-01= row:18  column:13
-02= row:14  column:13
-01= row:19  column:13
-02= row:18  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:12
-01= row:19  column:17
-02= row:17  column:13
-01= row:18  column:13
-02= row:16  column:18
-01= row:19  column:13
-02= row:18  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:18
-01= row:19  column:17
-02= row:18  column:15
-01= row:18  column:13
-02= row:14  column:14
-01= row:19  column:13
-02= row:15  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:18
-01= row:19  column:17
-02= row:12  column:17
-01= row:18  column:13
-02= row:13  column:15
-01= row:19  column:13
-02= row:18  column:18
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:18
-01= row:19  column:17
-02= row:12  column:15
-01= row:18  column:13
-02= row:18  column:16
-01= row:19  column:13
-02= row:18  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:14
-01= row:19  column:17
-02= row:14  column:17
-01= row:18  column:13
-02= row:16  column:15
-01= row:19  column:13
-02= row:15  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:17
-01= row:19  column:17
-02= row:15  column:17
-01= row:18  column:13
-02= row:18  column:16
-01= row:19  column:13
-02= row:14  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:13
-01= row:19  column:17
-02= row:16  column:17
-01= row:18  column:13
-02= row:15  column:16
-01= row:19  column:13
-02= row:13  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:12
-01= row:19  column:17
-02= row:18  column:15
-01= row:18  column:13
-02= row:15  column:12
-01= row:19  column:13
-02= row:18  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:17
-01= row:19  column:17
-02= row:17  column:13
-01= row:18  column:13
-02= row:18  column:18
-01= row:19  column:13
-02= row:17  column:15
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:12
-01= row:19  column:17
-02= row:18  column:17
-01= row:18  column:13
-02= row:15  column:17
-01= row:19  column:13
-02= row:17  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:12
-01= row:19  column:17
-02= row:15  column:12
-01= row:18  column:13
-02= row:18  column:18
-01= row:19  column:13
-02= row:18  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:17
-01= row:19  column:17
-02= row:12  column:14
-01= row:18  column:13
-02= row:14  column:14
-01= row:19  column:13
-02= row:15  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:13
-01= row:19  column:17
-02= row:13  column:14
-01= row:18  column:13
-02= row:12  column:18
-01= row:19  column:13
-02= row:16  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:12
-01= row:19  column:17
-02= row:16  column:16
-01= row:18  column:13
-02= row:17  column:12
-01= row:19  column:13
-02= row:18  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:17
-01= row:19  column:17
-02= row:18  column:14
-01= row:18  column:13
-02= row:13  column:18
-01= row:19  column:13
-02= row:15  column:17
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:13
-01= row:19  column:17
-02= row:13  column:12
-01= row:18  column:13
-02= row:17  column:18
-01= row:19  column:13
-02= row:18  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:16
-01= row:19  column:17
-02= row:14  column:12
-01= row:18  column:13
-02= row:17  column:15
-01= row:19  column:13
-02= row:12  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:12
-01= row:19  column:17
-02= row:18  column:13
-01= row:18  column:13
-02= row:15  column:14
-01= row:19  column:13
-02= row:14  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:12
-01= row:19  column:17
-02= row:13  column:15
-01= row:18  column:13
-02= row:18  column:12
-01= row:19  column:13
-02= row:13  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:17
-01= row:19  column:17
-02= row:17  column:13
-01= row:18  column:13
-02= row:13  column:15
-01= row:19  column:13
-02= row:14  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:17
-01= row:19  column:17
-02= row:14  column:12
-01= row:18  column:13
-02= row:17  column:17
-01= row:19  column:13
-02= row:16  column:13
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:15
-01= row:19  column:17
-02= row:13  column:12
-01= row:18  column:13
-02= row:14  column:13
-01= row:19  column:13
-02= row:16  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:16
-01= row:19  column:17
-02= row:14  column:17
-01= row:18  column:13
-02= row:17  column:15
-01= row:19  column:13
-02= row:13  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:15
-01= row:19  column:17
-02= row:14  column:17
-01= row:18  column:13
-02= row:12  column:12
-01= row:19  column:13
-02= row:17  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:18
-01= row:19  column:17
-02= row:15  column:17
-01= row:18  column:13
-02= row:17  column:12
-01= row:19  column:13
-02= row:12  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:15
-01= row:19  column:17
-02= row:15  column:13
-01= row:18  column:13
-02= row:13  column:15
-01= row:19  column:13
-02= row:12  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:16
-01= row:19  column:17
-02= row:14  column:17
-01= row:18  column:13
-02= row:18  column:18
-01= row:19  column:13
-02= row:18  column:14
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:17
-01= row:19  column:17
-02= row:16  column:18
-01= row:18  column:13
-02= row:14  column:17
-01= row:19  column:13
-02= row:18  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:14
-01= row:19  column:17
-02= row:17  column:14
-01= row:18  column:13
-02= row:14  column:15
-01= row:19  column:13
-02= row:18  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:17
-01= row:19  column:17
-02= row:18  column:18
-01= row:18  column:13
-02= row:13  column:12
-01= row:19  column:13
-02= row:13  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:14
-01= row:19  column:17
-02= row:12  column:12
-01= row:18  column:13
-02= row:14  column:17
-01= row:19  column:13
-02= row:14  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:18
-01= row:19  column:17
-02= row:15  column:14
-01= row:18  column:13
-02= row:15  column:18
-01= row:19  column:13
-02= row:16  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:17
-01= row:19  column:17
-02= row:12  column:17
-01= row:18  column:13
-02= row:15  column:18
-01= row:19  column:13
-02= row:18  column:16
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:14
-01= row:19  column:17
-02= row:18  column:13
-01= row:18  column:13
-02= row:17  column:17
-01= row:19  column:13
-02= row:12  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:13
-01= row:19  column:17
-02= row:18  column:15
-01= row:18  column:13
-02= row:12  column:12
-01= row:19  column:13
-02= row:12  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:15
-01= row:19  column:17
-02= row:14  column:18
-01= row:18  column:13
-02= row:15  column:14
-01= row:19  column:13
-02= row:15  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:16
-01= row:19  column:17
-02= row:17  column:15
-01= row:18  column:13
-02= row:14  column:14
-01= row:19  column:13
-02= row:17  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:13
-01= row:19  column:17
-02= row:14  column:17
-01= row:18  column:13
-02= row:13  column:16
-01= row:19  column:13
-02= row:13  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:12
-01= row:19  column:17
-02= row:18  column:16
-01= row:18  column:13
-02= row:18  column:16
-01= row:19  column:13
-02= row:17  column:17
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:16
-01= row:19  column:17
-02= row:12  column:13
-01= row:18  column:13
-02= row:16  column:17
-01= row:19  column:13
-02= row:13  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:14
-01= row:19  column:17
-02= row:14  column:13
-01= row:18  column:13
-02= row:14  column:18
-01= row:19  column:13
-02= row:12  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:17
-01= row:19  column:17
-02= row:17  column:17
-01= row:18  column:13
-02= row:17  column:13
-01= row:19  column:13
-02= row:14  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:13
-01= row:19  column:17
-02= row:15  column:16
-01= row:18  column:13
-02= row:17  column:12
-01= row:19  column:13
-02= row:12  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:18
-01= row:19  column:17
-02= row:16  column:17
-01= row:18  column:13
-02= row:15  column:13
-01= row:19  column:13
-02= row:17  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:12
-01= row:19  column:17
-02= row:14  column:18
-01= row:18  column:13
-02= row:18  column:14
-01= row:19  column:13
-02= row:12  column:14
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:12
-01= row:19  column:17
-02= row:13  column:12
-01= row:18  column:13
-02= row:15  column:17
-01= row:19  column:13
-02= row:17  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:12
-01= row:19  column:17
-02= row:13  column:16
-01= row:18  column:13
-02= row:14  column:14
-01= row:19  column:13
-02= row:13  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:15
-01= row:19  column:17
-02= row:16  column:18
-01= row:18  column:13
-02= row:18  column:16
-01= row:19  column:13
-02= row:18  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:13
-01= row:19  column:17
-02= row:17  column:15
-01= row:18  column:13
-02= row:15  column:12
-01= row:19  column:13
-02= row:14  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:18
-01= row:19  column:17
-02= row:14  column:15
-01= row:18  column:13
-02= row:12  column:16
-01= row:19  column:13
-02= row:16  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:13
-01= row:19  column:17
-02= row:15  column:12
-01= row:18  column:13
-02= row:13  column:13
-01= row:19  column:13
-02= row:13  column:16
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:18
-01= row:19  column:17
-02= row:14  column:15
-01= row:18  column:13
-02= row:17  column:12
-01= row:19  column:13
-02= row:13  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:18
-01= row:19  column:17
-02= row:18  column:17
-01= row:18  column:13
-02= row:16  column:15
-01= row:19  column:13
-02= row:16  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:12
-01= row:19  column:17
-02= row:17  column:12
-01= row:18  column:13
-02= row:18  column:14
-01= row:19  column:13
-02= row:17  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:14
-01= row:19  column:17
-02= row:17  column:13
-01= row:18  column:13
-02= row:14  column:18
-01= row:19  column:13
-02= row:15  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:12
-01= row:19  column:17
-02= row:14  column:17
-01= row:18  column:13
-02= row:13  column:18
-01= row:19  column:13
-02= row:13  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:14
-01= row:19  column:17
-02= row:18  column:17
-01= row:18  column:13
-02= row:16  column:14
-01= row:19  column:13
-02= row:13  column:12
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:16
-01= row:19  column:17
-02= row:17  column:14
-01= row:18  column:13
-02= row:13  column:18
-01= row:19  column:13
-02= row:15  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:18
-01= row:19  column:17
-02= row:12  column:15
-01= row:18  column:13
-02= row:16  column:17
-01= row:19  column:13
-02= row:12  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:12
-01= row:19  column:17
-02= row:16  column:15
-01= row:18  column:13
-02= row:15  column:12
-01= row:19  column:13
-02= row:15  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:13
-01= row:19  column:17
-02= row:17  column:15
-01= row:18  column:13
-02= row:12  column:14
-01= row:19  column:13
-02= row:15  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:17
-01= row:19  column:17
-02= row:18  column:13
-01= row:18  column:13
-02= row:16  column:14
-01= row:19  column:13
-02= row:16  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:18
-01= row:19  column:17
-02= row:12  column:14
-01= row:18  column:13
-02= row:14  column:16
-01= row:19  column:13
-02= row:13  column:18
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:15
-01= row:19  column:17
-02= row:18  column:18
-01= row:18  column:13
-02= row:15  column:12
-01= row:19  column:13
-02= row:13  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:13
-01= row:19  column:17
-02= row:13  column:12
-01= row:18  column:13
-02= row:12  column:12
-01= row:19  column:13
-02= row:14  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:16
-01= row:19  column:17
-02= row:13  column:18
-01= row:18  column:13
-02= row:17  column:16
-01= row:19  column:13
-02= row:16  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:13
-01= row:19  column:17
-02= row:18  column:17
-01= row:18  column:13
-02= row:12  column:16
-01= row:19  column:13
-02= row:15  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:12
-01= row:19  column:17
-02= row:17  column:17
-01= row:18  column:13
-02= row:12  column:17
-01= row:19  column:13
-02= row:16  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:12
-01= row:19  column:17
-02= row:13  column:16
-01= row:18  column:13
-02= row:18  column:16
-01= row:19  column:13
-02= row:16  column:15
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:15
-01= row:19  column:17
-02= row:12  column:18
-01= row:18  column:13
-02= row:14  column:12
-01= row:19  column:13
-02= row:12  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:16
-01= row:19  column:17
-02= row:16  column:14
-01= row:18  column:13
-02= row:13  column:18
-01= row:19  column:13
-02= row:17  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:18
-01= row:19  column:17
-02= row:12  column:18
-01= row:18  column:13
-02= row:12  column:17
-01= row:19  column:13
-02= row:14  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:18
-01= row:19  column:17
-02= row:14  column:12
-01= row:18  column:13
-02= row:17  column:13
-01= row:19  column:13
-02= row:16  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:14
-01= row:19  column:17
-02= row:15  column:16
-01= row:18  column:13
-02= row:12  column:16
-01= row:19  column:13
-02= row:12  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:15
-01= row:19  column:17
-02= row:13  column:18
-01= row:18  column:13
-02= row:18  column:13
-01= row:19  column:13
-02= row:14  column:16
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:17
-01= row:19  column:17
-02= row:12  column:18
-01= row:18  column:13
-02= row:17  column:13
-01= row:19  column:13
-02= row:17  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:13
-01= row:19  column:17
-02= row:13  column:16
-01= row:18  column:13
-02= row:15  column:13
-01= row:19  column:13
-02= row:15  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:16
-01= row:19  column:17
-02= row:18  column:15
-01= row:18  column:13
-02= row:18  column:15
-01= row:19  column:13
-02= row:12  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:18
-01= row:19  column:17
-02= row:13  column:13
-01= row:18  column:13
-02= row:12  column:14
-01= row:19  column:13
-02= row:13  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:13
-01= row:19  column:17
-02= row:16  column:14
-01= row:18  column:13
-02= row:16  column:14
-01= row:19  column:13
-02= row:13  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:17
-01= row:19  column:17
-02= row:13  column:17
-01= row:18  column:13
-02= row:12  column:12
-01= row:19  column:13
-02= row:15  column:14
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:12
-01= row:19  column:17
-02= row:18  column:14
-01= row:18  column:13
-02= row:13  column:12
-01= row:19  column:13
-02= row:12  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:18
-01= row:19  column:17
-02= row:13  column:17
-01= row:18  column:13
-02= row:15  column:12
-01= row:19  column:13
-02= row:16  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:17
-01= row:19  column:17
-02= row:18  column:14
-01= row:18  column:13
-02= row:12  column:18
-01= row:19  column:13
-02= row:17  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:14
-01= row:19  column:17
-02= row:15  column:14
-01= row:18  column:13
-02= row:14  column:17
-01= row:19  column:13
-02= row:14  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:15
-01= row:19  column:17
-02= row:14  column:14
-01= row:18  column:13
-02= row:14  column:16
-01= row:19  column:13
-02= row:12  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:15
-01= row:19  column:17
-02= row:13  column:14
-01= row:18  column:13
-02= row:18  column:12
-01= row:19  column:13
-02= row:12  column:14
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:18
-01= row:19  column:17
-02= row:14  column:16
-01= row:18  column:13
-02= row:12  column:17
-01= row:19  column:13
-02= row:13  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:17
-01= row:19  column:17
-02= row:13  column:12
-01= row:18  column:13
-02= row:15  column:12
-01= row:19  column:13
-02= row:12  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:16
-01= row:19  column:17
-02= row:16  column:16
-01= row:18  column:13
-02= row:14  column:12
-01= row:19  column:13
-02= row:12  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:12
-01= row:19  column:17
-02= row:12  column:12
-01= row:18  column:13
-02= row:13  column:13
-01= row:19  column:13
-02= row:18  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:15
-01= row:19  column:17
-02= row:15  column:16
-01= row:18  column:13
-02= row:17  column:16
-01= row:19  column:13
-02= row:17  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:17
-01= row:19  column:17
-02= row:16  column:17
-01= row:18  column:13
-02= row:14  column:12
-01= row:19  column:13
-02= row:15  column:17
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:17
-01= row:19  column:17
-02= row:18  column:13
-01= row:18  column:13
-02= row:17  column:16
-01= row:19  column:13
-02= row:12  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:16
-01= row:19  column:17
-02= row:14  column:15
-01= row:18  column:13
-02= row:17  column:12
-01= row:19  column:13
-02= row:12  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:16
-01= row:19  column:17
-02= row:15  column:17
-01= row:18  column:13
-02= row:18  column:13
-01= row:19  column:13
-02= row:14  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:15
-01= row:19  column:17
-02= row:18  column:13
-01= row:18  column:13
-02= row:12  column:12
-01= row:19  column:13
-02= row:15  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:17
-01= row:19  column:17
-02= row:18  column:17
-01= row:18  column:13
-02= row:12  column:18
-01= row:19  column:13
-02= row:14  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:12
-01= row:19  column:17
-02= row:17  column:13
-01= row:18  column:13
-02= row:13  column:13
-01= row:19  column:13
-02= row:15  column:17
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:13
-01= row:19  column:17
-02= row:17  column:12
-01= row:18  column:13
-02= row:13  column:13
-01= row:19  column:13
-02= row:13  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:14
-01= row:19  column:17
-02= row:14  column:16
-01= row:18  column:13
-02= row:18  column:13
-01= row:19  column:13
-02= row:18  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:17
-01= row:19  column:17
-02= row:15  column:18
-01= row:18  column:13
-02= row:14  column:16
-01= row:19  column:13
-02= row:14  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:18
-01= row:19  column:17
-02= row:13  column:14
-01= row:18  column:13
-02= row:15  column:14
-01= row:19  column:13
-02= row:16  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:12
-01= row:19  column:17
-02= row:16  column:12
-01= row:18  column:13
-02= row:12  column:13
-01= row:19  column:13
-02= row:18  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:15
-01= row:19  column:17
-02= row:16  column:16
-01= row:18  column:13
-02= row:16  column:13
-01= row:19  column:13
-02= row:14  column:14
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:18
-01= row:19  column:17
-02= row:17  column:16
-01= row:18  column:13
-02= row:16  column:18
-01= row:19  column:13
-02= row:14  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:15
-01= row:19  column:17
-02= row:15  column:17
-01= row:18  column:13
-02= row:12  column:18
-01= row:19  column:13
-02= row:14  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:13
-01= row:19  column:17
-02= row:17  column:12
-01= row:18  column:13
-02= row:12  column:14
-01= row:19  column:13
-02= row:14  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:14
-01= row:19  column:17
-02= row:12  column:13
-01= row:18  column:13
-02= row:14  column:12
-01= row:19  column:13
-02= row:17  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:17
-01= row:19  column:17
-02= row:13  column:16
-01= row:18  column:13
-02= row:17  column:12
-01= row:19  column:13
-02= row:16  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:18
-01= row:19  column:17
-02= row:12  column:15
-01= row:18  column:13
-02= row:15  column:14
-01= row:19  column:13
-02= row:15  column:12
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:12
-01= row:19  column:17
-02= row:16  column:13
-01= row:18  column:13
-02= row:16  column:18
-01= row:19  column:13
-02= row:17  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:17
-01= row:19  column:17
-02= row:15  column:13
-01= row:18  column:13
-02= row:13  column:17
-01= row:19  column:13
-02= row:13  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:16
-01= row:19  column:17
-02= row:18  column:15
-01= row:18  column:13
-02= row:13  column:18
-01= row:19  column:13
-02= row:13  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:13
-01= row:19  column:17
-02= row:17  column:14
-01= row:18  column:13
-02= row:13  column:12
-01= row:19  column:13
-02= row:16  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:16
-01= row:19  column:17
-02= row:15  column:16
-01= row:18  column:13
-02= row:17  column:14
-01= row:19  column:13
-02= row:18  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:12
-01= row:19  column:17
-02= row:15  column:18
-01= row:18  column:13
-02= row:15  column:18
-01= row:19  column:13
-02= row:16  column:18
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:17
-01= row:19  column:17
-02= row:14  column:16
-01= row:18  column:13
-02= row:12  column:14
-01= row:19  column:13
-02= row:12  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:12
-01= row:19  column:17
-02= row:12  column:18
-01= row:18  column:13
-02= row:17  column:18
-01= row:19  column:13
-02= row:12  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:13
-01= row:19  column:17
-02= row:16  column:13
-01= row:18  column:13
-02= row:18  column:17
-01= row:19  column:13
-02= row:17  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:14
-01= row:19  column:17
-02= row:18  column:15
-01= row:18  column:13
-02= row:12  column:18
-01= row:19  column:13
-02= row:18  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:12
-01= row:19  column:17
-02= row:15  column:13
-01= row:18  column:13
-02= row:16  column:12
-01= row:19  column:13
-02= row:17  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:17
-01= row:19  column:17
-02= row:16  column:18
-01= row:18  column:13
-02= row:17  column:16
-01= row:19  column:13
-02= row:18  column:17
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:14
-01= row:19  column:17
-02= row:17  column:13
-01= row:18  column:13
-02= row:15  column:16
-01= row:19  column:13
-02= row:17  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:17
-01= row:19  column:17
-02= row:18  column:16
-01= row:18  column:13
-02= row:17  column:16
-01= row:19  column:13
-02= row:15  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:14
-01= row:19  column:17
-02= row:14  column:14
-01= row:18  column:13
-02= row:17  column:12
-01= row:19  column:13
-02= row:17  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:16
-01= row:19  column:17
-02= row:12  column:18
-01= row:18  column:13
-02= row:12  column:13
-01= row:19  column:13
-02= row:12  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:13
-01= row:19  column:17
-02= row:17  column:13
-01= row:18  column:13
-02= row:13  column:16
-01= row:19  column:13
-02= row:18  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:17
-01= row:19  column:17
-02= row:16  column:13
-01= row:18  column:13
-02= row:13  column:13
-01= row:19  column:13
-02= row:13  column:17
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:15
-01= row:19  column:17
-02= row:16  column:15
-01= row:18  column:13
-02= row:16  column:14
-01= row:19  column:13
-02= row:17  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:16
-01= row:19  column:17
-02= row:13  column:17
-01= row:18  column:13
-02= row:17  column:16
-01= row:19  column:13
-02= row:14  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:14
-01= row:19  column:17
-02= row:18  column:13
-01= row:18  column:13
-02= row:13  column:16
-01= row:19  column:13
-02= row:16  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:15
-01= row:19  column:17
-02= row:17  column:13
-01= row:18  column:13
-02= row:12  column:14
-01= row:19  column:13
-02= row:12  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:12
-01= row:19  column:17
-02= row:13  column:18
-01= row:18  column:13
-02= row:15  column:18
-01= row:19  column:13
-02= row:17  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:17
-01= row:19  column:17
-02= row:18  column:13
-01= row:18  column:13
-02= row:12  column:12
-01= row:19  column:13
-02= row:16  column:17
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:14
-01= row:19  column:17
-02= row:16  column:15
-01= row:18  column:13
-02= row:15  column:17
-01= row:19  column:13
-02= row:18  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:15
-01= row:19  column:17
-02= row:13  column:17
-01= row:18  column:13
-02= row:15  column:17
-01= row:19  column:13
-02= row:16  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:15
-01= row:19  column:17
-02= row:13  column:17
-01= row:18  column:13
-02= row:12  column:12
-01= row:19  column:13
-02= row:17  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:16
-01= row:19  column:17
-02= row:13  column:14
-01= row:18  column:13
-02= row:17  column:13
-01= row:19  column:13
-02= row:17  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:12
-01= row:19  column:17
-02= row:18  column:16
-01= row:18  column:13
-02= row:16  column:12
-01= row:19  column:13
-02= row:15  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:16
-01= row:19  column:17
-02= row:14  column:14
-01= row:18  column:13
-02= row:16  column:13
-01= row:19  column:13
-02= row:18  column:18
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:13
-01= row:19  column:17
-02= row:18  column:13
-01= row:18  column:13
-02= row:12  column:18
-01= row:19  column:13
-02= row:14  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:14
-01= row:19  column:17
-02= row:17  column:18
-01= row:18  column:13
-02= row:16  column:12
-01= row:19  column:13
-02= row:16  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:12
-01= row:19  column:17
-02= row:15  column:14
-01= row:18  column:13
-02= row:16  column:12
-01= row:19  column:13
-02= row:16  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:17
-01= row:19  column:17
-02= row:12  column:18
-01= row:18  column:13
-02= row:13  column:13
-01= row:19  column:13
-02= row:17  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:12
-01= row:19  column:17
-02= row:15  column:17
-01= row:18  column:13
-02= row:12  column:13
-01= row:19  column:13
-02= row:17  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:15
-01= row:19  column:17
-02= row:17  column:17
-01= row:18  column:13
-02= row:13  column:17
-01= row:19  column:13
-02= row:17  column:16
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:18
-01= row:19  column:17
-02= row:16  column:16
-01= row:18  column:13
-02= row:13  column:12
-01= row:19  column:13
-02= row:14  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:12
-01= row:19  column:17
-02= row:12  column:17
-01= row:18  column:13
-02= row:15  column:17
-01= row:19  column:13
-02= row:16  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:13
-01= row:19  column:17
-02= row:18  column:13
-01= row:18  column:13
-02= row:17  column:15
-01= row:19  column:13
-02= row:16  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:17
-01= row:19  column:17
-02= row:14  column:12
-01= row:18  column:13
-02= row:14  column:12
-01= row:19  column:13
-02= row:16  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:17
-01= row:19  column:17
-02= row:16  column:18
-01= row:18  column:13
-02= row:18  column:16
-01= row:19  column:13
-02= row:17  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:14
-01= row:19  column:17
-02= row:17  column:17
-01= row:18  column:13
-02= row:14  column:16
-01= row:19  column:13
-02= row:13  column:17
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:17
-01= row:19  column:17
-02= row:15  column:12
-01= row:18  column:13
-02= row:18  column:13
-01= row:19  column:13
-02= row:12  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:13
-01= row:19  column:17
-02= row:13  column:17
-01= row:18  column:13
-02= row:13  column:13
-01= row:19  column:13
-02= row:18  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:18
-01= row:19  column:17
-02= row:14  column:12
-01= row:18  column:13
-02= row:13  column:15
-01= row:19  column:13
-02= row:17  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:17
-01= row:19  column:17
-02= row:16  column:13
-01= row:18  column:13
-02= row:12  column:17
-01= row:19  column:13
-02= row:12  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:16
-01= row:19  column:17
-02= row:14  column:18
-01= row:18  column:13
-02= row:13  column:13
-01= row:19  column:13
-02= row:15  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:12
-01= row:19  column:17
-02= row:15  column:18
-01= row:18  column:13
-02= row:17  column:17
-01= row:19  column:13
-02= row:12  column:14
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:12
-01= row:19  column:17
-02= row:13  column:12
-01= row:18  column:13
-02= row:15  column:13
-01= row:19  column:13
-02= row:16  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:12
-01= row:19  column:17
-02= row:18  column:12
-01= row:18  column:13
-02= row:12  column:13
-01= row:19  column:13
-02= row:13  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:13
-01= row:19  column:17
-02= row:15  column:18
-01= row:18  column:13
-02= row:15  column:17
-01= row:19  column:13
-02= row:17  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:17
-01= row:19  column:17
-02= row:17  column:13
-01= row:18  column:13
-02= row:13  column:16
-01= row:19  column:13
-02= row:15  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:12
-01= row:19  column:17
-02= row:14  column:14
-01= row:18  column:13
-02= row:13  column:16
-01= row:19  column:13
-02= row:12  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:17
-01= row:19  column:17
-02= row:12  column:17
-01= row:18  column:13
-02= row:12  column:13
-01= row:19  column:13
-02= row:15  column:13
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:18
-01= row:19  column:17
-02= row:14  column:13
-01= row:18  column:13
-02= row:18  column:12
-01= row:19  column:13
-02= row:17  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:14
-01= row:19  column:17
-02= row:16  column:18
-01= row:18  column:13
-02= row:18  column:14
-01= row:19  column:13
-02= row:15  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:15
-01= row:19  column:17
-02= row:15  column:18
-01= row:18  column:13
-02= row:13  column:18
-01= row:19  column:13
-02= row:18  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:12
-01= row:19  column:17
-02= row:16  column:14
-01= row:18  column:13
-02= row:16  column:18
-01= row:19  column:13
-02= row:13  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:13
-01= row:19  column:17
-02= row:17  column:16
-01= row:18  column:13
-02= row:17  column:13
-01= row:19  column:13
-02= row:16  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:18
-01= row:19  column:17
-02= row:14  column:14
-01= row:18  column:13
-02= row:17  column:17
-01= row:19  column:13
-02= row:14  column:17
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:16
-01= row:19  column:17
-02= row:12  column:13
-01= row:18  column:13
-02= row:18  column:16
-01= row:19  column:13
-02= row:15  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:12
-01= row:19  column:17
-02= row:14  column:18
-01= row:18  column:13
-02= row:12  column:17
-01= row:19  column:13
-02= row:15  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:12
-01= row:19  column:17
-02= row:18  column:15
-01= row:18  column:13
-02= row:13  column:14
-01= row:19  column:13
-02= row:15  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:13
-01= row:19  column:17
-02= row:14  column:18
-01= row:18  column:13
-02= row:17  column:14
-01= row:19  column:13
-02= row:15  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:17
-01= row:19  column:17
-02= row:15  column:16
-01= row:18  column:13
-02= row:12  column:12
-01= row:19  column:13
-02= row:18  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:16
-01= row:19  column:17
-02= row:13  column:15
-01= row:18  column:13
-02= row:17  column:18
-01= row:19  column:13
-02= row:17  column:14
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:16
-01= row:19  column:17
-02= row:13  column:14
-01= row:18  column:13
-02= row:15  column:13
-01= row:19  column:13
-02= row:18  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:18
-01= row:19  column:17
-02= row:12  column:17
-01= row:18  column:13
-02= row:16  column:12
-01= row:19  column:13
-02= row:18  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:13
-01= row:19  column:17
-02= row:18  column:13
-01= row:18  column:13
-02= row:12  column:16
-01= row:19  column:13
-02= row:18  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:15
-01= row:19  column:17
-02= row:17  column:17
-01= row:18  column:13
-02= row:15  column:13
-01= row:19  column:13
-02= row:15  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:18
-01= row:19  column:17
-02= row:15  column:14
-01= row:18  column:13
-02= row:13  column:15
-01= row:19  column:13
-02= row:14  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:17
-01= row:19  column:17
-02= row:16  column:13
-01= row:18  column:13
-02= row:17  column:16
-01= row:19  column:13
-02= row:17  column:15
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:13
-01= row:19  column:17
-02= row:15  column:12
-01= row:18  column:13
-02= row:14  column:17
-01= row:19  column:13
-02= row:16  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:13
-01= row:19  column:17
-02= row:13  column:16
-01= row:18  column:13
-02= row:13  column:16
-01= row:19  column:13
-02= row:13  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:12
-01= row:19  column:17
-02= row:12  column:13
-01= row:18  column:13
-02= row:13  column:15
-01= row:19  column:13
-02= row:17  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:12
-01= row:19  column:17
-02= row:15  column:14
-01= row:18  column:13
-02= row:14  column:13
-01= row:19  column:13
-02= row:12  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:12
-01= row:19  column:17
-02= row:15  column:14
-01= row:18  column:13
-02= row:14  column:17
-01= row:19  column:13
-02= row:15  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:18
-01= row:19  column:17
-02= row:17  column:12
-01= row:18  column:13
-02= row:14  column:17
-01= row:19  column:13
-02= row:14  column:12
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:17
-01= row:19  column:17
-02= row:12  column:14
-01= row:18  column:13
-02= row:15  column:12
-01= row:19  column:13
-02= row:18  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:16
-01= row:19  column:17
-02= row:13  column:14
-01= row:18  column:13
-02= row:18  column:14
-01= row:19  column:13
-02= row:17  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:17
-01= row:19  column:17
-02= row:18  column:12
-01= row:18  column:13
-02= row:13  column:17
-01= row:19  column:13
-02= row:15  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:15
-01= row:19  column:17
-02= row:15  column:13
-01= row:18  column:13
-02= row:13  column:12
-01= row:19  column:13
-02= row:18  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:14
-01= row:19  column:17
-02= row:13  column:12
-01= row:18  column:13
-02= row:16  column:16
-01= row:19  column:13
-02= row:17  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:16
-01= row:19  column:17
-02= row:12  column:18
-01= row:18  column:13
-02= row:18  column:12
-01= row:19  column:13
-02= row:17  column:14
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:14
-01= row:19  column:17
-02= row:12  column:18
-01= row:18  column:13
-02= row:16  column:16
-01= row:19  column:13
-02= row:15  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:12
-01= row:19  column:17
-02= row:16  column:15
-01= row:18  column:13
-02= row:17  column:15
-01= row:19  column:13
-02= row:14  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:14
-01= row:19  column:17
-02= row:15  column:17
-01= row:18  column:13
-02= row:12  column:17
-01= row:19  column:13
-02= row:12  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:16
-01= row:19  column:17
-02= row:13  column:17
-01= row:18  column:13
-02= row:13  column:13
-01= row:19  column:13
-02= row:18  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:14
-01= row:19  column:17
-02= row:16  column:16
-01= row:18  column:13
-02= row:18  column:18
-01= row:19  column:13
-02= row:12  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:17
-01= row:19  column:17
-02= row:14  column:16
-01= row:18  column:13
-02= row:17  column:13
-01= row:19  column:13
-02= row:13  column:18
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:17
-01= row:19  column:17
-02= row:18  column:16
-01= row:18  column:13
-02= row:14  column:17
-01= row:19  column:13
-02= row:18  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:12
-01= row:19  column:17
-02= row:18  column:14
-01= row:18  column:13
-02= row:12  column:16
-01= row:19  column:13
-02= row:12  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:12
-01= row:19  column:17
-02= row:12  column:13
-01= row:18  column:13
-02= row:15  column:18
-01= row:19  column:13
-02= row:17  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:12
-01= row:19  column:17
-02= row:13  column:15
-01= row:18  column:13
-02= row:18  column:14
-01= row:19  column:13
-02= row:16  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:18
-01= row:19  column:17
-02= row:17  column:17
-01= row:18  column:13
-02= row:12  column:14
-01= row:19  column:13
-02= row:16  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:14
-01= row:19  column:17
-02= row:14  column:18
-01= row:18  column:13
-02= row:12  column:13
-01= row:19  column:13
-02= row:16  column:15
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:15
-01= row:19  column:17
-02= row:14  column:14
-01= row:18  column:13
-02= row:13  column:18
-01= row:19  column:13
-02= row:14  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:14
-01= row:19  column:17
-02= row:13  column:12
-01= row:18  column:13
-02= row:12  column:15
-01= row:19  column:13
-02= row:15  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:12
-01= row:19  column:17
-02= row:18  column:16
-01= row:18  column:13
-02= row:18  column:13
-01= row:19  column:13
-02= row:17  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:13
-01= row:19  column:17
-02= row:14  column:18
-01= row:18  column:13
-02= row:13  column:15
-01= row:19  column:13
-02= row:13  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:17
-01= row:19  column:17
-02= row:18  column:13
-01= row:18  column:13
-02= row:14  column:15
-01= row:19  column:13
-02= row:13  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:17
-01= row:19  column:17
-02= row:12  column:13
-01= row:18  column:13
-02= row:17  column:17
-01= row:19  column:13
-02= row:15  column:12
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:14
-01= row:19  column:17
-02= row:14  column:18
-01= row:18  column:13
-02= row:17  column:16
-01= row:19  column:13
-02= row:17  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:15
-01= row:19  column:17
-02= row:17  column:16
-01= row:18  column:13
-02= row:16  column:15
-01= row:19  column:13
-02= row:16  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:17
-01= row:19  column:17
-02= row:18  column:12
-01= row:18  column:13
-02= row:14  column:18
-01= row:19  column:13
-02= row:17  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:13
-01= row:19  column:17
-02= row:18  column:17
-01= row:18  column:13
-02= row:16  column:17
-01= row:19  column:13
-02= row:12  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:13
-01= row:19  column:17
-02= row:18  column:14
-01= row:18  column:13
-02= row:14  column:15
-01= row:19  column:13
-02= row:12  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:12
-01= row:19  column:17
-02= row:17  column:13
-01= row:18  column:13
-02= row:18  column:18
-01= row:19  column:13
-02= row:13  column:14
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:15
-01= row:19  column:17
-02= row:12  column:15
-01= row:18  column:13
-02= row:18  column:18
-01= row:19  column:13
-02= row:12  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:17
-01= row:19  column:17
-02= row:17  column:15
-01= row:18  column:13
-02= row:18  column:12
-01= row:19  column:13
-02= row:13  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:17
-01= row:19  column:17
-02= row:15  column:17
-01= row:18  column:13
-02= row:14  column:16
-01= row:19  column:13
-02= row:14  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:14
-01= row:19  column:17
-02= row:12  column:14
-01= row:18  column:13
-02= row:18  column:13
-01= row:19  column:13
-02= row:12  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:15
-01= row:19  column:17
-02= row:12  column:12
-01= row:18  column:13
-02= row:17  column:14
-01= row:19  column:13
-02= row:15  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:15
-01= row:19  column:17
-02= row:14  column:17
-01= row:18  column:13
-02= row:16  column:15
-01= row:19  column:13
-02= row:18  column:17
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:17
-01= row:19  column:17
-02= row:14  column:12
-01= row:18  column:13
-02= row:14  column:17
-01= row:19  column:13
-02= row:13  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:16
-01= row:19  column:17
-02= row:18  column:13
-01= row:18  column:13
-02= row:14  column:15
-01= row:19  column:13
-02= row:14  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:16
-01= row:19  column:17
-02= row:14  column:17
-01= row:18  column:13
-02= row:13  column:14
-01= row:19  column:13
-02= row:17  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:15
-01= row:19  column:17
-02= row:13  column:14
-01= row:18  column:13
-02= row:13  column:14
-01= row:19  column:13
-02= row:16  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:12
-01= row:19  column:17
-02= row:15  column:13
-01= row:18  column:13
-02= row:13  column:16
-01= row:19  column:13
-02= row:15  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:15
-01= row:19  column:17
-02= row:13  column:17
-01= row:18  column:13
-02= row:16  column:14
-01= row:19  column:13
-02= row:15  column:17
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:17
-01= row:19  column:17
-02= row:16  column:18
-01= row:18  column:13
-02= row:17  column:13
-01= row:19  column:13
-02= row:13  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:18
-01= row:19  column:17
-02= row:17  column:13
-01= row:18  column:13
-02= row:17  column:12
-01= row:19  column:13
-02= row:13  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:15
-01= row:19  column:17
-02= row:17  column:13
-01= row:18  column:13
-02= row:17  column:16
-01= row:19  column:13
-02= row:15  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:17
-01= row:19  column:17
-02= row:15  column:13
-01= row:18  column:13
-02= row:15  column:13
-01= row:19  column:13
-02= row:17  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:14
-01= row:19  column:17
-02= row:15  column:12
-01= row:18  column:13
-02= row:14  column:12
-01= row:19  column:13
-02= row:18  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:18
-01= row:19  column:17
-02= row:16  column:13
-01= row:18  column:13
-02= row:16  column:13
-01= row:19  column:13
-02= row:17  column:15
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:16
-01= row:19  column:17
-02= row:16  column:16
-01= row:18  column:13
-02= row:14  column:18
-01= row:19  column:13
-02= row:13  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:16
-01= row:19  column:17
-02= row:12  column:15
-01= row:18  column:13
-02= row:15  column:17
-01= row:19  column:13
-02= row:16  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:16
-01= row:19  column:17
-02= row:14  column:15
-01= row:18  column:13
-02= row:12  column:17
-01= row:19  column:13
-02= row:18  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:18
-01= row:19  column:17
-02= row:12  column:13
-01= row:18  column:13
-02= row:12  column:16
-01= row:19  column:13
-02= row:16  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:12
-01= row:19  column:17
-02= row:15  column:17
-01= row:18  column:13
-02= row:16  column:15
-01= row:19  column:13
-02= row:13  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:12
-01= row:19  column:17
-02= row:18  column:17
-01= row:18  column:13
-02= row:13  column:15
-01= row:19  column:13
-02= row:13  column:14
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:18
-01= row:19  column:17
-02= row:12  column:14
-01= row:18  column:13
-02= row:16  column:14
-01= row:19  column:13
-02= row:14  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:13
-01= row:19  column:17
-02= row:17  column:17
-01= row:18  column:13
-02= row:15  column:17
-01= row:19  column:13
-02= row:12  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:13
-01= row:19  column:17
-02= row:12  column:13
-01= row:18  column:13
-02= row:17  column:13
-01= row:19  column:13
-02= row:12  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:16
-01= row:19  column:17
-02= row:14  column:15
-01= row:18  column:13
-02= row:16  column:14
-01= row:19  column:13
-02= row:13  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:16
-01= row:19  column:17
-02= row:16  column:18
-01= row:18  column:13
-02= row:17  column:13
-01= row:19  column:13
-02= row:17  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:18
-01= row:19  column:17
-02= row:15  column:13
-01= row:18  column:13
-02= row:12  column:18
-01= row:19  column:13
-02= row:15  column:17
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:13
-01= row:19  column:17
-02= row:18  column:16
-01= row:18  column:13
-02= row:18  column:14
-01= row:19  column:13
-02= row:18  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:13
-01= row:19  column:17
-02= row:13  column:15
-01= row:18  column:13
-02= row:13  column:15
-01= row:19  column:13
-02= row:16  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:18
-01= row:19  column:17
-02= row:12  column:15
-01= row:18  column:13
-02= row:16  column:16
-01= row:19  column:13
-02= row:15  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:16
-01= row:19  column:17
-02= row:15  column:13
-01= row:18  column:13
-02= row:17  column:12
-01= row:19  column:13
-02= row:16  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:18
-01= row:19  column:17
-02= row:18  column:13
-01= row:18  column:13
-02= row:13  column:18
-01= row:19  column:13
-02= row:14  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:16
-01= row:19  column:17
-02= row:12  column:15
-01= row:18  column:13
-02= row:16  column:14
-01= row:19  column:13
-02= row:14  column:12
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:14
-01= row:19  column:17
-02= row:16  column:13
-01= row:18  column:13
-02= row:12  column:16
-01= row:19  column:13
-02= row:13  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:17
-01= row:19  column:17
-02= row:15  column:14
-01= row:18  column:13
-02= row:16  column:13
-01= row:19  column:13
-02= row:16  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:12
-01= row:19  column:17
-02= row:18  column:17
-01= row:18  column:13
-02= row:12  column:17
-01= row:19  column:13
-02= row:17  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:17
-01= row:19  column:17
-02= row:15  column:14
-01= row:18  column:13
-02= row:12  column:13
-01= row:19  column:13
-02= row:13  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:16
-01= row:19  column:17
-02= row:15  column:18
-01= row:18  column:13
-02= row:15  column:18
-01= row:19  column:13
-02= row:12  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:18
-01= row:19  column:17
-02= row:15  column:16
-01= row:18  column:13
-02= row:16  column:13
-01= row:19  column:13
-02= row:12  column:18
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:16
-01= row:19  column:17
-02= row:12  column:18
-01= row:18  column:13
-02= row:12  column:14
-01= row:19  column:13
-02= row:14  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:15
-01= row:19  column:17
-02= row:13  column:16
-01= row:18  column:13
-02= row:17  column:12
-01= row:19  column:13
-02= row:13  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:15
-01= row:19  column:17
-02= row:18  column:15
-01= row:18  column:13
-02= row:14  column:16
-01= row:19  column:13
-02= row:13  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:12
-01= row:19  column:17
-02= row:15  column:17
-01= row:18  column:13
-02= row:14  column:17
-01= row:19  column:13
-02= row:13  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:12
-01= row:19  column:17
-02= row:17  column:14
-01= row:18  column:13
-02= row:15  column:12
-01= row:19  column:13
-02= row:13  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:18
-01= row:19  column:17
-02= row:12  column:12
-01= row:18  column:13
-02= row:12  column:15
-01= row:19  column:13
-02= row:18  column:13
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:16
-01= row:19  column:17
-02= row:14  column:14
-01= row:18  column:13
-02= row:16  column:16
-01= row:19  column:13
-02= row:17  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:12
-01= row:19  column:17
-02= row:15  column:18
-01= row:18  column:13
-02= row:16  column:14
-01= row:19  column:13
-02= row:18  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:14
-01= row:19  column:17
-02= row:17  column:14
-01= row:18  column:13
-02= row:18  column:14
-01= row:19  column:13
-02= row:18  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:14
-01= row:19  column:17
-02= row:13  column:16
-01= row:18  column:13
-02= row:16  column:18
-01= row:19  column:13
-02= row:12  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:18
-01= row:19  column:17
-02= row:13  column:13
-01= row:18  column:13
-02= row:18  column:14
-01= row:19  column:13
-02= row:16  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:13
-01= row:19  column:17
-02= row:16  column:13
-01= row:18  column:13
-02= row:16  column:18
-01= row:19  column:13
-02= row:16  column:13
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:13
-01= row:19  column:17
-02= row:14  column:16
-01= row:18  column:13
-02= row:17  column:16
-01= row:19  column:13
-02= row:16  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:15
-01= row:19  column:17
-02= row:16  column:16
-01= row:18  column:13
-02= row:12  column:18
-01= row:19  column:13
-02= row:13  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:13
-01= row:19  column:17
-02= row:18  column:12
-01= row:18  column:13
-02= row:17  column:13
-01= row:19  column:13
-02= row:12  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:12
-01= row:19  column:17
-02= row:12  column:13
-01= row:18  column:13
-02= row:15  column:14
-01= row:19  column:13
-02= row:13  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:17
-01= row:19  column:17
-02= row:13  column:12
-01= row:18  column:13
-02= row:16  column:15
-01= row:19  column:13
-02= row:15  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:16
-01= row:19  column:17
-02= row:15  column:18
-01= row:18  column:13
-02= row:17  column:17
-01= row:19  column:13
-02= row:17  column:18
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:16
-01= row:19  column:17
-02= row:14  column:18
-01= row:18  column:13
-02= row:13  column:12
-01= row:19  column:13
-02= row:17  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:14
-01= row:19  column:17
-02= row:13  column:16
-01= row:18  column:13
-02= row:16  column:13
-01= row:19  column:13
-02= row:18  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:18
-01= row:19  column:17
-02= row:15  column:16
-01= row:18  column:13
-02= row:16  column:18
-01= row:19  column:13
-02= row:17  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:16
-01= row:19  column:17
-02= row:16  column:18
-01= row:18  column:13
-02= row:16  column:17
-01= row:19  column:13
-02= row:13  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:13
-01= row:19  column:17
-02= row:16  column:15
-01= row:18  column:13
-02= row:15  column:16
-01= row:19  column:13
-02= row:12  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:17
-01= row:19  column:17
-02= row:16  column:15
-01= row:18  column:13
-02= row:17  column:14
-01= row:19  column:13
-02= row:18  column:15
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:14
-01= row:19  column:17
-02= row:15  column:16
-01= row:18  column:13
-02= row:13  column:15
-01= row:19  column:13
-02= row:17  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:18
-01= row:19  column:17
-02= row:14  column:17
-01= row:18  column:13
-02= row:14  column:12
-01= row:19  column:13
-02= row:16  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:16
-01= row:19  column:17
-02= row:14  column:17
-01= row:18  column:13
-02= row:17  column:14
-01= row:19  column:13
-02= row:14  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:18
-01= row:19  column:17
-02= row:18  column:16
-01= row:18  column:13
-02= row:12  column:17
-01= row:19  column:13
-02= row:14  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:12
-01= row:19  column:17
-02= row:18  column:14
-01= row:18  column:13
-02= row:16  column:13
-01= row:19  column:13
-02= row:13  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:13
-01= row:19  column:17
-02= row:13  column:12
-01= row:18  column:13
-02= row:12  column:16
-01= row:19  column:13
-02= row:15  column:14
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:12
-01= row:19  column:17
-02= row:16  column:14
-01= row:18  column:13
-02= row:13  column:13
-01= row:19  column:13
-02= row:13  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:17
-01= row:19  column:17
-02= row:12  column:16
-01= row:18  column:13
-02= row:12  column:17
-01= row:19  column:13
-02= row:12  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:15
-01= row:19  column:17
-02= row:12  column:14
-01= row:18  column:13
-02= row:17  column:15
-01= row:19  column:13
-02= row:16  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:17
-01= row:19  column:17
-02= row:12  column:12
-01= row:18  column:13
-02= row:15  column:12
-01= row:19  column:13
-02= row:17  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:18
-01= row:19  column:17
-02= row:16  column:13
-01= row:18  column:13
-02= row:15  column:17
-01= row:19  column:13
-02= row:15  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:17
-01= row:19  column:17
-02= row:13  column:15
-01= row:18  column:13
-02= row:13  column:15
-01= row:19  column:13
-02= row:13  column:13
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:16
-01= row:19  column:17
-02= row:18  column:14
-01= row:18  column:13
-02= row:13  column:12
-01= row:19  column:13
-02= row:14  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:14
-01= row:19  column:17
-02= row:13  column:17
-01= row:18  column:13
-02= row:15  column:17
-01= row:19  column:13
-02= row:17  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:12
-01= row:19  column:17
-02= row:16  column:17
-01= row:18  column:13
-02= row:13  column:18
-01= row:19  column:13
-02= row:12  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:18
-01= row:19  column:17
-02= row:18  column:18
-01= row:18  column:13
-02= row:14  column:12
-01= row:19  column:13
-02= row:12  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:17
-01= row:19  column:17
-02= row:18  column:17
-01= row:18  column:13
-02= row:13  column:17
-01= row:19  column:13
-02= row:18  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:16
-01= row:19  column:17
-02= row:12  column:12
-01= row:18  column:13
-02= row:16  column:14
-01= row:19  column:13
-02= row:12  column:12
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:15
-01= row:19  column:17
-02= row:13  column:16
-01= row:18  column:13
-02= row:14  column:18
-01= row:19  column:13
-02= row:13  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:18
-01= row:19  column:17
-02= row:16  column:16
-01= row:18  column:13
-02= row:17  column:16
-01= row:19  column:13
-02= row:16  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:15
-01= row:19  column:17
-02= row:16  column:13
-01= row:18  column:13
-02= row:15  column:18
-01= row:19  column:13
-02= row:13  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:14
-01= row:19  column:17
-02= row:14  column:15
-01= row:18  column:13
-02= row:14  column:16
-01= row:19  column:13
-02= row:16  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:18
-01= row:19  column:17
-02= row:12  column:14
-01= row:18  column:13
-02= row:14  column:16
-01= row:19  column:13
-02= row:14  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:15
-01= row:19  column:17
-02= row:16  column:13
-01= row:18  column:13
-02= row:12  column:13
-01= row:19  column:13
-02= row:15  column:14
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:18
-01= row:19  column:17
-02= row:18  column:15
-01= row:18  column:13
-02= row:18  column:13
-01= row:19  column:13
-02= row:13  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:17
-01= row:19  column:17
-02= row:17  column:16
-01= row:18  column:13
-02= row:16  column:14
-01= row:19  column:13
-02= row:15  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:14
-01= row:19  column:17
-02= row:12  column:16
-01= row:18  column:13
-02= row:13  column:16
-01= row:19  column:13
-02= row:14  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:13
-01= row:19  column:17
-02= row:17  column:17
-01= row:18  column:13
-02= row:13  column:16
-01= row:19  column:13
-02= row:17  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:14
-01= row:19  column:17
-02= row:14  column:16
-01= row:18  column:13
-02= row:17  column:13
-01= row:19  column:13
-02= row:12  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:14
-01= row:19  column:17
-02= row:12  column:12
-01= row:18  column:13
-02= row:14  column:14
-01= row:19  column:13
-02= row:13  column:14
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:12
-01= row:19  column:17
-02= row:17  column:17
-01= row:18  column:13
-02= row:17  column:17
-01= row:19  column:13
-02= row:13  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:14
-01= row:19  column:17
-02= row:12  column:18
-01= row:18  column:13
-02= row:16  column:18
-01= row:19  column:13
-02= row:12  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:14
-01= row:19  column:17
-02= row:13  column:13
-01= row:18  column:13
-02= row:18  column:15
-01= row:19  column:13
-02= row:14  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:17
-01= row:19  column:17
-02= row:12  column:18
-01= row:18  column:13
-02= row:18  column:12
-01= row:19  column:13
-02= row:16  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:17
-01= row:19  column:17
-02= row:13  column:16
-01= row:18  column:13
-02= row:18  column:18
-01= row:19  column:13
-02= row:14  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:12
-01= row:19  column:17
-02= row:17  column:16
-01= row:18  column:13
-02= row:15  column:14
-01= row:19  column:13
-02= row:17  column:18
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:16
-01= row:19  column:17
-02= row:16  column:13
-01= row:18  column:13
-02= row:15  column:16
-01= row:19  column:13
-02= row:12  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:14
-01= row:19  column:17
-02= row:15  column:16
-01= row:18  column:13
-02= row:18  column:17
-01= row:19  column:13
-02= row:17  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:14
-01= row:19  column:17
-02= row:18  column:17
-01= row:18  column:13
-02= row:15  column:13
-01= row:19  column:13
-02= row:13  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:17
-01= row:19  column:17
-02= row:14  column:14
-01= row:18  column:13
-02= row:12  column:14
-01= row:19  column:13
-02= row:14  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:15
-01= row:19  column:17
-02= row:16  column:16
-01= row:18  column:13
-02= row:14  column:16
-01= row:19  column:13
-02= row:18  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:12
-01= row:19  column:17
-02= row:13  column:18
-01= row:18  column:13
-02= row:13  column:17
-01= row:19  column:13
-02= row:14  column:14
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:16
-01= row:19  column:17
-02= row:13  column:18
-01= row:18  column:13
-02= row:16  column:13
-01= row:19  column:13
-02= row:14  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:13
-01= row:19  column:17
-02= row:13  column:15
-01= row:18  column:13
-02= row:18  column:14
-01= row:19  column:13
-02= row:18  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:16
-01= row:19  column:17
-02= row:16  column:14
-01= row:18  column:13
-02= row:12  column:13
-01= row:19  column:13
-02= row:12  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:17
-01= row:19  column:17
-02= row:14  column:16
-01= row:18  column:13
-02= row:17  column:18
-01= row:19  column:13
-02= row:17  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:17
-01= row:19  column:17
-02= row:12  column:16
-01= row:18  column:13
-02= row:18  column:13
-01= row:19  column:13
-02= row:15  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:14
-01= row:19  column:17
-02= row:16  column:14
-01= row:18  column:13
-02= row:14  column:12
-01= row:19  column:13
-02= row:14  column:15
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:12
-01= row:19  column:17
-02= row:15  column:14
-01= row:18  column:13
-02= row:18  column:18
-01= row:19  column:13
-02= row:17  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:13
-01= row:19  column:17
-02= row:15  column:14
-01= row:18  column:13
-02= row:17  column:15
-01= row:19  column:13
-02= row:15  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:16
-01= row:19  column:17
-02= row:16  column:18
-01= row:18  column:13
-02= row:18  column:18
-01= row:19  column:13
-02= row:12  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:16
-01= row:19  column:17
-02= row:15  column:18
-01= row:18  column:13
-02= row:14  column:12
-01= row:19  column:13
-02= row:17  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:18
-01= row:19  column:17
-02= row:18  column:12
-01= row:18  column:13
-02= row:16  column:15
-01= row:19  column:13
-02= row:14  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:13
-01= row:19  column:17
-02= row:12  column:16
-01= row:18  column:13
-02= row:18  column:18
-01= row:19  column:13
-02= row:16  column:14
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:17
-01= row:19  column:17
-02= row:17  column:13
-01= row:18  column:13
-02= row:13  column:18
-01= row:19  column:13
-02= row:14  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:13
-01= row:19  column:17
-02= row:16  column:13
-01= row:18  column:13
-02= row:13  column:12
-01= row:19  column:13
-02= row:15  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:16
-01= row:19  column:17
-02= row:18  column:14
-01= row:18  column:13
-02= row:18  column:16
-01= row:19  column:13
-02= row:14  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:18
-01= row:19  column:17
-02= row:12  column:16
-01= row:18  column:13
-02= row:14  column:12
-01= row:19  column:13
-02= row:16  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:18
-01= row:19  column:17
-02= row:12  column:13
-01= row:18  column:13
-02= row:14  column:14
-01= row:19  column:13
-02= row:17  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:17
-01= row:19  column:17
-02= row:16  column:14
-01= row:18  column:13
-02= row:17  column:17
-01= row:19  column:13
-02= row:12  column:14
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:17
-01= row:19  column:17
-02= row:14  column:15
-01= row:18  column:13
-02= row:15  column:12
-01= row:19  column:13
-02= row:18  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:14
-01= row:19  column:17
-02= row:13  column:15
-01= row:18  column:13
-02= row:16  column:18
-01= row:19  column:13
-02= row:13  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:17
-01= row:19  column:17
-02= row:17  column:15
-01= row:18  column:13
-02= row:13  column:13
-01= row:19  column:13
-02= row:15  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:18
-01= row:19  column:17
-02= row:18  column:18
-01= row:18  column:13
-02= row:15  column:18
-01= row:19  column:13
-02= row:13  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:12
-01= row:19  column:17
-02= row:15  column:13
-01= row:18  column:13
-02= row:14  column:15
-01= row:19  column:13
-02= row:16  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:14
-01= row:19  column:17
-02= row:14  column:18
-01= row:18  column:13
-02= row:16  column:16
-01= row:19  column:13
-02= row:13  column:12
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:17
-01= row:19  column:17
-02= row:18  column:15
-01= row:18  column:13
-02= row:16  column:16
-01= row:19  column:13
-02= row:12  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:17
-01= row:19  column:17
-02= row:15  column:18
-01= row:18  column:13
-02= row:16  column:12
-01= row:19  column:13
-02= row:18  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:16
-01= row:19  column:17
-02= row:14  column:18
-01= row:18  column:13
-02= row:14  column:16
-01= row:19  column:13
-02= row:18  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:17
-01= row:19  column:17
-02= row:13  column:13
-01= row:18  column:13
-02= row:13  column:17
-01= row:19  column:13
-02= row:12  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:13
-01= row:19  column:17
-02= row:16  column:17
-01= row:18  column:13
-02= row:18  column:12
-01= row:19  column:13
-02= row:15  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:12
-01= row:19  column:17
-02= row:14  column:17
-01= row:18  column:13
-02= row:15  column:18
-01= row:19  column:13
-02= row:12  column:15
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:12
-01= row:19  column:17
-02= row:14  column:16
-01= row:-1  column:-1
-02= row:14  column:15
-01= row:19  column:13
-02= row:15  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:15
-01= row:19  column:17
-02= row:13  column:14
-01= row:-1  column:-1
-02= row:18  column:15
-01= row:18  column:13
-02= row:13  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:16
-01= row:19  column:17
-02= row:15  column:17
-01= row:-1  column:-1
-02= row:14  column:13
-01= row:18  column:13
-02= row:14  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:13
-01= row:19  column:17
-02= row:14  column:16
-01= row:-1  column:-1
-02= row:17  column:16
-01= row:18  column:13
-02= row:13  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:13
-01= row:19  column:17
-02= row:13  column:18
-01= row:-1  column:-1
-02= row:12  column:18
-01= row:18  column:13
-02= row:15  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:18
-01= row:19  column:17
-02= row:17  column:14
-01= row:-1  column:-1
-02= row:16  column:12
-01= row:18  column:13
-02= row:18  column:17
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:17
-01= row:19  column:17
-02= row:16  column:16
-01= row:-1  column:-1
-02= row:12  column:14
-01= row:18  column:13
-02= row:13  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:14
-01= row:19  column:17
-02= row:16  column:16
-01= row:-1  column:-1
-02= row:14  column:15
-01= row:18  column:13
-02= row:18  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:13
-01= row:19  column:17
-02= row:17  column:16
-01= row:-1  column:-1
-02= row:13  column:14
-01= row:18  column:13
-02= row:12  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:13
-01= row:19  column:17
-02= row:14  column:15
-01= row:-1  column:-1
-02= row:17  column:17
-01= row:18  column:13
-02= row:13  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:17
-01= row:19  column:17
-02= row:15  column:12
-01= row:-1  column:-1
-02= row:17  column:16
-01= row:18  column:13
-02= row:13  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:17
-01= row:19  column:17
-02= row:17  column:17
-01= row:-1  column:-1
-02= row:16  column:17
-01= row:18  column:13
-02= row:17  column:13
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:14
-01= row:19  column:17
-02= row:17  column:15
-01= row:-1  column:-1
-02= row:16  column:15
-01= row:18  column:13
-02= row:14  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:15
-01= row:19  column:17
-02= row:13  column:12
-01= row:-1  column:-1
-02= row:12  column:16
-01= row:18  column:13
-02= row:15  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:15
-01= row:19  column:17
-02= row:18  column:14
-01= row:-1  column:-1
-02= row:12  column:14
-01= row:18  column:13
-02= row:15  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:14
-01= row:19  column:17
-02= row:13  column:13
-01= row:-1  column:-1
-02= row:16  column:17
-01= row:18  column:13
-02= row:12  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:13
-01= row:19  column:17
-02= row:15  column:17
-01= row:-1  column:-1
-02= row:14  column:18
-01= row:18  column:13
-02= row:14  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:16
-01= row:19  column:17
-02= row:12  column:13
-01= row:-1  column:-1
-02= row:17  column:16
-01= row:18  column:13
-02= row:18  column:14
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:18
-01= row:19  column:17
-02= row:14  column:13
-01= row:-1  column:-1
-02= row:14  column:18
-01= row:18  column:13
-02= row:18  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:12
-01= row:19  column:17
-02= row:15  column:12
-01= row:-1  column:-1
-02= row:13  column:16
-01= row:18  column:13
-02= row:14  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:13
-01= row:19  column:17
-02= row:16  column:16
-01= row:-1  column:-1
-02= row:17  column:14
-01= row:18  column:13
-02= row:18  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:16
-01= row:19  column:17
-02= row:17  column:14
-01= row:-1  column:-1
-02= row:12  column:14
-01= row:18  column:13
-02= row:18  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:16
-01= row:19  column:17
-02= row:14  column:18
-01= row:-1  column:-1
-02= row:14  column:14
-01= row:18  column:13
-02= row:15  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:14
-01= row:19  column:17
-02= row:17  column:14
-01= row:-1  column:-1
-02= row:12  column:14
-01= row:18  column:13
-02= row:17  column:12
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:17
-01= row:19  column:17
-02= row:14  column:13
-01= row:27  column:17
-02= row:13  column:16
-01= row:18  column:13
-02= row:15  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:17
-01= row:19  column:17
-02= row:15  column:16
-01= row:28  column:17
-02= row:18  column:12
-01= row:18  column:13
-02= row:14  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:17
-01= row:19  column:17
-02= row:17  column:17
-01= row:28  column:16
-02= row:16  column:16
-01= row:18  column:13
-02= row:17  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:15
-01= row:19  column:17
-02= row:18  column:16
-01= row:28  column:17
-02= row:18  column:13
-01= row:18  column:13
-02= row:15  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:14
-01= row:19  column:17
-02= row:14  column:15
-01= row:28  column:16
-02= row:15  column:12
-01= row:18  column:13
-02= row:14  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:17
-01= row:19  column:17
-02= row:17  column:17
-01= row:28  column:15
-02= row:14  column:16
-01= row:18  column:13
-02= row:17  column:14
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:15
-01= row:19  column:17
-02= row:18  column:18
-01= row:28  column:16
-02= row:16  column:14
-01= row:18  column:13
-02= row:17  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:16
-01= row:19  column:17
-02= row:15  column:16
-01= row:28  column:15
-02= row:15  column:16
-01= row:18  column:13
-02= row:16  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:13
-01= row:19  column:17
-02= row:15  column:17
-01= row:28  column:16
-02= row:12  column:18
-01= row:18  column:13
-02= row:16  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:15
-01= row:19  column:17
-02= row:12  column:15
-01= row:28  column:17
-02= row:17  column:12
-01= row:18  column:13
-02= row:15  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:18
-01= row:19  column:17
-02= row:13  column:13
-01= row:28  column:16
-02= row:18  column:15
-01= row:18  column:13
-02= row:17  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:16
-01= row:19  column:17
-02= row:14  column:18
-01= row:28  column:17
-02= row:15  column:14
-01= row:18  column:13
-02= row:12  column:16
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:15
-01= row:19  column:17
-02= row:13  column:13
-01= row:28  column:18
-02= row:16  column:13
-01= row:18  column:13
-02= row:14  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:16  column:17
-01= row:19  column:17
-02= row:17  column:18
-01= row:28  column:19
-02= row:17  column:13
-01= row:18  column:13
-02= row:18  column:12
-_____MOVE_____
-01= row:18  column:17
-02= row:14  column:14
-01= row:19  column:17
-02= row:15  column:17
-01= row:27  column:19
-02= row:12  column:16
-01= row:18  column:13
-02= row:18  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:12
-01= row:19  column:17
-02= row:18  column:14
-01= row:26  column:19
-02= row:16  column:17
-01= row:18  column:13
-02= row:12  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:16
-01= row:19  column:17
-02= row:13  column:14
-01= row:25  column:19
-02= row:13  column:14
-01= row:18  column:13
-02= row:13  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:13
-01= row:19  column:17
-02= row:13  column:13
-01= row:24  column:19
-02= row:18  column:15
-01= row:18  column:13
-02= row:15  column:14
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:17
-01= row:19  column:17
-02= row:13  column:14
-01= row:23  column:19
-02= row:15  column:18
-01= row:18  column:13
-02= row:13  column:14
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:14
-01= row:19  column:17
-02= row:13  column:14
-01= row:23  column:18
-02= row:17  column:18
-01= row:18  column:13
-02= row:18  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:15
-01= row:19  column:17
-02= row:18  column:13
-01= row:23  column:17
-02= row:18  column:13
-01= row:18  column:13
-02= row:13  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:15  column:14
-01= row:19  column:17
-02= row:16  column:16
-01= row:22  column:17
-02= row:12  column:16
-01= row:18  column:13
-02= row:17  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:12  column:17
-01= row:19  column:17
-02= row:14  column:15
-01= row:21  column:17
-02= row:18  column:14
-01= row:18  column:13
-02= row:14  column:17
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:15
-01= row:19  column:17
-02= row:15  column:12
-01= row:20  column:17
-02= row:13  column:15
-01= row:18  column:13
-02= row:15  column:14
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:13
-01= row:19  column:17
-02= row:17  column:17
-01= row:20  column:17
-02= row:17  column:16
-01= row:18  column:13
-02= row:12  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:14
-01= row:19  column:17
-02= row:18  column:17
-01= row:20  column:17
-02= row:13  column:16
-01= row:18  column:13
-02= row:16  column:18
-_____MOVE_____
-01= row:18  column:17
-02= row:18  column:17
-01= row:19  column:17
-02= row:17  column:12
-01= row:20  column:17
-02= row:12  column:12
-01= row:18  column:13
-02= row:14  column:13
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:15
-01= row:19  column:17
-02= row:15  column:13
-01= row:20  column:17
-02= row:17  column:17
-01= row:18  column:13
-02= row:17  column:15
-_____MOVE_____
-01= row:18  column:17
-02= row:13  column:12
-01= row:19  column:17
-02= row:15  column:16
-01= row:20  column:17
-02= row:17  column:13
-01= row:18  column:13
-02= row:16  column:16
-_____MOVE_____
-01= row:18  column:17
-02= row:17  column:16
-01= row:19  column:17
-02= row:17  column:12
-01= row:20  column:17
-02= row:13  column:12
-01= row:18  column:13
-02= row:14  column:15
-____ACTION_____
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-[[[OOPS!
-finished!
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+____ACTION_____
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+____ACTION_____
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+____ACTION_____
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+____ACTION_____
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+____ACTION_____
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+____ACTION_____
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+____ACTION_____
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+____ACTION_____
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+____ACTION_____
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+____ACTION_____
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+____ACTION_____
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+____ACTION_____
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+____ACTION_____
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+____ACTION_____
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+____ACTION_____
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+____ACTION_____
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+____ACTION_____
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+____ACTION_____
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+____ACTION_____
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+____ACTION_____
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+____ACTION_____
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+____ACTION_____
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+____ACTION_____
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+____ACTION_____
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+____ACTION_____
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point 3 = row:12  column:12
+_____MOVE_____
+Attack_Point 0 = row:18  column:12
+Attack_Point 1 = row:12  column:18
+Attack_Point 2 = row:12  column:18
+Attack_Point
